@@ -18,7 +18,10 @@ comfortable after this assignment taking on more and larger Unity projects
 
 I encountered some issues using git with this assignment due to the large size of the
 files in Unity. I was unable to push my files to git for a long time and even with
-git lfs it was a challenge getting my files uploaded to git.
+git lfs it was a challenge getting my files uploaded to git. In the end I was able to
+upload my files for the tank game and for the completed versions of the games but not
+the project files for my platformer game. I did spend the majority of my time on the
+tank game however and it is a better demonstration of my work regardless.
 
 
 
