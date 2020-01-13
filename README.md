@@ -11,8 +11,9 @@ battling game.
 ## What I learned
 
 I learned how to navigate Unity and gained some basic skills with it. I also learned
-how to integrate scripts into Unity and what these scripts should look like. I'd be
-comfortable after this assignment taking on more and larger Unity projects
+how to integrate scripts into Unity and what these scripts should look like. I also 
+learned how to upload my games to the internet and make them available online. I'd be 
+comfortable after this assignment taking on more and larger Unity projects.
 
 ## What didn't Work
 
@@ -37,3 +38,7 @@ Tanks: https://learn.unity.com/project/tanks-tutorial
 An early version of my platformer available to play online:
 
 https://connect.unity.com/p/myfirstgame-16741
+
+Later version: 
+
+https://simmer.io/@willchis/platformer

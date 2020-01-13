@@ -59,3 +59,11 @@ Tanks/Assets/Scenes/main/LightingData.asset filter=lfs diff=lfs merge=lfs -text
 MyFirstGame.zip filter=lfs diff=lfs merge=lfs -text
 Tanks/* filter=lfs diff=lfs merge=lfs -text
 MyFirstGame/ filter=lfs diff=lfs merge=lfs -text
+MyFirstGame/Library filter=lfs diff=lfs merge=lfs -text
+MyFirstGame/Logs filter=lfs diff=lfs merge=lfs -text
+MyFirstGame/Packages filter=lfs diff=lfs merge=lfs -text
+MyFirstGame/ProjectSettings filter=lfs diff=lfs merge=lfs -text
+MyFirstGame/connectwebgl.zip filter=lfs diff=lfs merge=lfs -text
+MyFirstGame/webgl_sharing filter=lfs diff=lfs merge=lfs -text
+MyFirstGame/Assets filter=lfs diff=lfs merge=lfs -text
+MyFirstGame/InitCodeMarker filter=lfs diff=lfs merge=lfs -text
